@@ -1,2 +1,8 @@
 Library/
 Temp/
+obj/
+Source Videos/
+*Desktop.ini
+Assembly-CSharp-firstpass.csproj
+*.csproj
+*.sln
